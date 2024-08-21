@@ -176,15 +176,20 @@ section .container {
 @media (max-width:640px) {
     /* Estilos para smartphones e dispositivos móveis */
     header{
-        width: 149%;
+        width: 100%;
     }
  .cardapio{
-    width: 143%;
+    width: 100%;
    
  }
 
  .cardapio img {
-    height: 420px;
+    height: 180px;
     margin-right: 26px;
 }
+.logo{
+    width: 100px;
+    height: 40px;
+}
+
 }
