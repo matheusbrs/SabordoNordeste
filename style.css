@@ -191,5 +191,10 @@ section .container {
     width: 100px;
     height: 40px;
 }
-
+.section_cardapio{
+    margin: 0 auto;
+}
+.container ul {
+    display: grid;
+}
 }
